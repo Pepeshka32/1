@@ -10,7 +10,7 @@ const user = {
 var style = {
   margin: "10px",
   border: "1px solid red",
-  color: "blue",
+  color: "black",
   height: 552,
   width: 300
 }
